@@ -251,35 +251,34 @@
 	\includegraphics[width=2.5in]{umlogo_full_red}
 \end{figure}
 \vspace{3mm}
-{\noindent\Large\bfseries\sffamily\textcolor{UMRed}{Declaration by Undergraduate Students}}\\ %% FIXME this will have to change if not postgraduate ...
+{\noindent\Large\bfseries\sffamily\textcolor{UMRed}{Autorisation De La Societé}}\\ %% FIXME this will have to change if not postgraduate ...
 
 {\setlength{\parindent}{0em}
 	
-\textbf{(a) Authenticity of Report}\\
+\textbf{(a) Autorisation du Superviseur}\\
 
-\noindent I hereby declare that I am the legitimate author of this Report and that it is my original work.
-
-No portion of this work has been submitted in support of an application for another degree or qualification of this or any other university or institution of higher education.
-
-I hold the University of Tunis El Manar and Tunisie Telecom harmless against any third party claims with regard to copyright violation, breach of confidentiality, defamation and any other third party right infringement.\\
-
-\textbf{(b) Research Code of Practice and Ethics Review Procedures}\\
-
-I declare that I have abided by the University’s Research Ethics Review Procedures.
-
-As an Undergraduate student, as per Regulation 58 of the General Regulations for University Undergraduate Awards, I accept that should my report be awarded a Grade 18/20, it will be made publicly available on the National Engineering School of Tunis Institutional Repository.}\\[5mm]
-%%\newcolumntype{L}{>{\arraybackslash}m{2.5in}}
+\noindent J’autorise l’étudiant \textbf{SLEIMI Khali} à faire le dépôt de son rapport de stage en vue d’une soutenance.
+\\
 \bgroup
 \def\arraystretch{1.2}%
 \begin{tabular}{ll}
-{\bfseries Faculty/Institute/Centre/School} & \@faculty \\
-{\bfseries Degree} & \@degree \\
-{\bfseries Title}  & \removelinebreaks{\@title} \\	
-{\bfseries Candidate \@ifundefined{@authorID}{}{(Id.)}} & \@author\ \@ifundefined{@authorID}{}{(\@authorID)} \\[0.7in]	
-{\bfseries Signature of Student} & \makebox[2in]{\hrulefill} \\
+{\bfseries Signature De L'Encadrant} & \makebox[2in]{\hrulefill} \\
 {\bfseries Date} & \today \\
 \end{tabular}\\[1cm]
 \egroup
+
+\textbf{(b) Cachet de L'Entreprise}\\
+L'Entreprise Autorise l'étudiant \textbf{SLEIMI Khali} à faire ce dépot.}\\[5mm]
+\bgroup
+\def\arraystretch{1.2}%
+\begin{tabular}{ll}
+{\bfseries Cachet de l'Entreprise} & \makebox[2in]{\hrulefill} \\
+{\bfseries Date} & \today \\
+\end{tabular}\\[1cm]
+\egroup
+
+%%\newcolumntype{L}{>{\arraybackslash}m{2.5in}}
+
 \noindent 12.09.2019
 \if@openright\cleardoublepage\else\clearpage\fi}
 
